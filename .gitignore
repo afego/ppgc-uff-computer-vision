@@ -1,0 +1,12 @@
+**/__pycache__
+**/.ipynb_checkpoints
+**/refs.py
+bin/*
+*.pyc
+*.png
+*.tiff
+*.tif
+*.jpg
+*.jpeg
+*.rar
+*.zip
